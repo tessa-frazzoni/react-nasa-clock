@@ -1,0 +1,15 @@
+.clock {
+    margin-top: 300px;
+    color: #ededed;     
+    line-height: 60px;
+}
+
+.time {
+    font-size: 50px;
+}
+
+@media (min-width: 768px) {
+    .time{
+        font-size: 100px;
+    }
+}
