@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/react-nasa-clock/static/css/main.78e4f1f9.chunk.css",
+    "main.js": "/react-nasa-clock/static/js/main.bf918099.chunk.js",
+    "main.js.map": "/react-nasa-clock/static/js/main.bf918099.chunk.js.map",
+    "runtime-main.js": "/react-nasa-clock/static/js/runtime-main.19a0d047.js",
+    "runtime-main.js.map": "/react-nasa-clock/static/js/runtime-main.19a0d047.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/react-nasa-clock/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ac5bf715.chunk.js": "/react-nasa-clock/static/js/2.ac5bf715.chunk.js",
+    "static/js/2.ac5bf715.chunk.js.map": "/react-nasa-clock/static/js/2.ac5bf715.chunk.js.map",
+    "static/js/3.0bf4f7b9.chunk.js": "/react-nasa-clock/static/js/3.0bf4f7b9.chunk.js",
+    "static/js/3.0bf4f7b9.chunk.js.map": "/react-nasa-clock/static/js/3.0bf4f7b9.chunk.js.map",
+    "index.html": "/react-nasa-clock/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/react-nasa-clock/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.78e4f1f9.chunk.css.map": "/react-nasa-clock/static/css/main.78e4f1f9.chunk.css.map",
+    "static/js/2.ac5bf715.chunk.js.LICENSE.txt": "/react-nasa-clock/static/js/2.ac5bf715.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19a0d047.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.ac5bf715.chunk.js",
+    "static/css/main.78e4f1f9.chunk.css",
+    "static/js/main.bf918099.chunk.js"
+  ]
+}
